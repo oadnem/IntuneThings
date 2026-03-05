@@ -34,7 +34,7 @@ do {
 
 switch ($JoinChoice) {
     "1" {
-        $GroupTag = "HybridAzureAD"
+        $GroupTag = "HybridAAD"
         Write-Host "`n[+] Join type set to: Hybrid Azure AD Join" -ForegroundColor Green
         Write-Host "[+] Group Tag will be: $GroupTag" -ForegroundColor Green
     }
