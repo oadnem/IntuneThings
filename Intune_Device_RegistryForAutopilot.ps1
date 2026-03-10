@@ -50,9 +50,9 @@ switch ($JoinChoice) {
 ####################################################################
 $AutopilotParams = @{
     Online     = $true
-    TenantId   = "82a9aebd-f1af-4214-b0d2-24b55999e10b"
-    AppId      = "9e2fdb86-d96f-48e9-8c74-a27c212d90f6"
-    AppSecret  = "8Q~JkQt.0H2C5r0E-0Q1hYuYiFUVBigXrhdl_"
+    TenantId   = "***"
+    AppId      = "**"
+    AppSecret  = "*"
     GroupTag   = $GroupTag
 }
 
